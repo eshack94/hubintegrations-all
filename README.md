@@ -7,3 +7,7 @@ https://github.com/blackducksoftware/jenkins-hub
 
 # TeamCity - Hub
 Coming Soon...
+
+# Bamboo - Hub
+Coming Soon...
+
