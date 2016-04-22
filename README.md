@@ -6,8 +6,8 @@ Landing page for all open sourced Black Duck Integrations.
 https://github.com/blackducksoftware/hub-jenkins
 
 # TeamCity - Hub
-Coming Soon...
+https://github.com/blackducksoftware/hub-teamcity
 
 # Bamboo - Hub
-Coming Soon...
+https://github.com/blackducksoftware/hub-bamboo
 
