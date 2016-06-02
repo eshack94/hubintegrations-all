@@ -2,12 +2,14 @@
 
 Landing page for all open sourced Black Duck Integrations.  
 
-# Jenkins - Hub
+# Hub: Jenkins
 https://github.com/blackducksoftware/hub-jenkins
 
-# TeamCity - Hub
+# Hub: TeamCity
 https://github.com/blackducksoftware/hub-teamcity
 
-# Bamboo - Hub
+# Hub: Bamboo
 https://github.com/blackducksoftware/hub-bamboo
 
+# Hub: TFS
+https://github.com/blackducksoftware/hub-tfs
