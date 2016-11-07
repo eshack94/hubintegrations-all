@@ -6,7 +6,7 @@ Landing page for all open sourced Black Duck Hub Integrations.
 https://hub.docker.com/u/blackducksoftware/
 
 # Hub: Jenkins
-https://github.com/blackducksoftware/hub-jenkins
+https://github.com/jenkinsci/blackduck-hub-plugin
 
 # Hub: TeamCity
 https://github.com/blackducksoftware/hub-teamcity
