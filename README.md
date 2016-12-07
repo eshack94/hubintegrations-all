@@ -28,3 +28,6 @@ https://github.com/blackducksoftware/hub-gradle-plugin
 
 # Hub: Maven Plugin
 https://github.com/blackducksoftware/hub-maven-plugin
+
+# Hub:  Artifactory
+https://github.com/blackducksoftware.com/hub-artifactory
