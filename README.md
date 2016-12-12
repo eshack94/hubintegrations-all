@@ -32,6 +32,4 @@ https://github.com/blackducksoftware/hub-maven-plugin
 # Hub:  Artifactory
 https://github.com/blackducksoftware/hub-artifactory
 
-# Contributing
 
-We welcome all pull requests.  Please use the Eclipse profile (https://github.com/blackducksoftware/hubintegrations-all/blob/master/OSSFormatting_profiles.xml) to help with formatting.  Thanks! 
