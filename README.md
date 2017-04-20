@@ -25,3 +25,5 @@ https://github.com/blackducksoftware/hub-artifactory
 https://github.com/blackducksoftware/hub-email-extension
 ## Hub: Eclipse
 https://github.com/blackducksoftware/hub-eclipse
+## Hub: Visual Studio
+https://github.com/blackducksoftware/hub-visualstudio
