@@ -1,42 +1,27 @@
 # Black Duck Integrations
-
 Landing page for all open sourced Black Duck Hub Integrations.  
 
-# Hub:  Docker
+## Hub:  Docker
 https://hub.docker.com/u/blackducksoftware/
-
-# Hub: Jenkins
+## Hub: Jenkins
 https://github.com/jenkinsci/blackduck-hub-plugin
-
-# Hub: TeamCity
+## Hub: TeamCity
 https://github.com/blackducksoftware/hub-teamcity
-
-# Hub: Bamboo
+## Hub: Bamboo
 https://github.com/blackducksoftware/hub-bamboo
-
-# Hub: TFS
+## Hub: TFS
 https://github.com/blackducksoftware/hub-tfs
-
-# Hub: JIRA
+## Hub: JIRA
 https://github.com/blackducksoftware/hub-jira
-
-# Hub: Gradle Plugin
+## Hub: Gradle Plugin
 https://github.com/blackducksoftware/hub-gradle-plugin
-
-# Hub: Maven Plugin
+## Hub: Maven Plugin
 https://github.com/blackducksoftware/hub-maven-plugin
-
-# Hub: pip Plugin
+## Hub: pip Plugin
 https://github.com/blackducksoftware/hub-pip-plugin
-
-# Hub:  Artifactory
+## Hub:  Artifactory
 https://github.com/blackducksoftware/hub-artifactory
-
-# Hub: Email Extension
+## Hub: Email Extension
 https://github.com/blackducksoftware/hub-email-extension
-
-# Hub: Eclipse
+## Hub: Eclipse
 https://github.com/blackducksoftware/hub-eclipse
-
-
-
