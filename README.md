@@ -1,7 +1,7 @@
 # Black Duck Integrations
 Landing page for all open sourced Black Duck Hub Integrations.  
 
-## Hub:  Docker
+## Hub: Docker
 https://hub.docker.com/u/blackducksoftware/
 ## Hub: Jenkins
 https://github.com/jenkinsci/blackduck-hub-plugin
@@ -19,7 +19,7 @@ https://github.com/blackducksoftware/hub-gradle-plugin
 https://github.com/blackducksoftware/hub-maven-plugin
 ## Hub: pip Plugin
 https://github.com/blackducksoftware/hub-pip-plugin
-## Hub:  Artifactory
+## Hub: Artifactory
 https://github.com/blackducksoftware/hub-artifactory
 ## Hub: Email Extension
 https://github.com/blackducksoftware/hub-email-extension
@@ -27,3 +27,5 @@ https://github.com/blackducksoftware/hub-email-extension
 https://github.com/blackducksoftware/hub-eclipse
 ## Hub: Visual Studio
 https://github.com/blackducksoftware/hub-visualstudio
+## Hub: NuGet
+https://github.com/blackducksoftware/hub-nuget
