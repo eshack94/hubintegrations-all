@@ -17,9 +17,6 @@ https://github.com/blackducksoftware/hub-bamboo
 # Hub: TFS
 https://github.com/blackducksoftware/hub-tfs
 
-#Hub: Atlassian Config
-https://github.com/blackducksoftware/hub-atlassian-config
-
 # Hub: JIRA
 https://github.com/blackducksoftware/hub-jira
 
@@ -29,7 +26,17 @@ https://github.com/blackducksoftware/hub-gradle-plugin
 # Hub: Maven Plugin
 https://github.com/blackducksoftware/hub-maven-plugin
 
+# Hub: pip Plugin
+https://github.com/blackducksoftware/hub-pip-plugin
+
 # Hub:  Artifactory
 https://github.com/blackducksoftware/hub-artifactory
+
+# Hub: Email Extension
+https://github.com/blackducksoftware/hub-email-extension
+
+# Hub: Eclipse
+https://github.com/blackducksoftware/hub-eclipse
+
 
 
