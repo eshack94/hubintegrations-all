@@ -1,5 +1,6 @@
 # Black Duck Integrations
 Landing page for all open sourced Black Duck Hub Integrations.  
+Official Documentation: https://blackducksoftware.atlassian.net/wiki/spaces/INTDOCS
 
 ## Hub: Docker
 https://hub.docker.com/u/blackducksoftware/
