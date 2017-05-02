@@ -11,7 +11,7 @@ https://github.com/blackducksoftware/hub-teamcity
 https://github.com/blackducksoftware/hub-bamboo
 ## Hub: TFS
 https://github.com/blackducksoftware/hub-tfs
-# Build Tools/Package managers
+# Build Tools/Package Managers
 ## Hub: Gradle Plugin
 https://github.com/blackducksoftware/hub-gradle-plugin
 ## Hub: Maven Plugin
@@ -22,15 +22,16 @@ https://github.com/blackducksoftware/hub-pip
 https://github.com/blackducksoftware/hub-sbt-plugin
 ## Hub: NuGet
 https://github.com/blackducksoftware/hub-nuget
+# IDEs
+## Hub: Eclipse
+https://github.com/blackducksoftware/hub-eclipse-plugin
+## Hub: Visual Studio
+https://github.com/blackducksoftware/hub-visualstudio
 # Other
 ## Hub: Artifactory
 https://github.com/blackducksoftware/hub-artifactory
 ## Hub: Email Extension
 https://github.com/blackducksoftware/hub-email-extension
-## Hub: Eclipse
-https://github.com/blackducksoftware/hub-eclipse-plugin
-## Hub: Visual Studio
-https://github.com/blackducksoftware/hub-visualstudio
 ## Hub: JIRA
 https://github.com/blackducksoftware/hub-jira
 
