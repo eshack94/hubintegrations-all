@@ -12,6 +12,8 @@ https://github.com/blackducksoftware/hub-bamboo
 ## Hub: TFS
 https://github.com/blackducksoftware/hub-tfs
 # Build Tools/Package Managers
+## Hub: Detect
+https://github.com/blackducksoftware/hub-detect
 ## Hub: Gradle Plugin
 https://github.com/blackducksoftware/hub-gradle-plugin
 ## Hub: Maven Plugin
