@@ -14,16 +14,6 @@ https://github.com/blackducksoftware/hub-tfs
 # Build Tools/Package Managers
 ## Hub: Detect
 https://github.com/blackducksoftware/hub-detect
-## Hub: Gradle Plugin
-https://github.com/blackducksoftware/hub-gradle-plugin
-## Hub: Maven Plugin
-https://github.com/blackducksoftware/hub-maven-plugin
-## Hub: pip Plugin
-https://github.com/blackducksoftware/hub-pip
-## Hub: SBT Plugin
-https://github.com/blackducksoftware/hub-sbt-plugin
-## Hub: NuGet
-https://github.com/blackducksoftware/hub-nuget
 # IDEs
 ## Hub: Eclipse
 https://github.com/blackducksoftware/hub-eclipse-plugin
